@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
+
+.banner-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.art-text {
+    font-family: 'Domine', 'Times New Roman', 'Georgia', serif;
+    font-size: 4rem;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 0.1em;
+    transition: transform 0.3s ease;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+    .art-text {
+        font-size: 3rem;
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        transform: rotate(180deg);
+    }
+}
+
+/* Tablet styles */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .art-text {
+        font-size: 3.5rem;
+    }
+}
+
+/* Large desktop styles */
+@media (min-width: 1025px) {
+    .art-text {
+        font-size: 5rem;
+    }
+}
