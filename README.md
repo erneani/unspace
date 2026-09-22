@@ -8,9 +8,9 @@ I will use the unspace to post some things I'm building, including many non-prog
 
 ## Thoughts on AI for this blog
 
-I will not use AI on the writing or coding of this blog. I will use lots of AI to search, refine and conflict with some ideas.
+I am compelled to say that I will not use AI on the writing or coding of this blog. Don't get me wrong, there will be lots of AI usage to search, refine and find conflicts with some ideas.
 
-All the characters here (even the deleted ones) will be directly written from my hands.
+That said, all the characters here (even the deleted ones) will be directly written from my hands.
 
 ## And, at the end...
 
